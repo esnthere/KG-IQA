@@ -7,4 +7,4 @@ For test:
    To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run once.
 2. Load pre-trained weight for test
 
-   The models pre-trained on KonIQ-10k with 5%,10%,25%,80% samples are released, and each released model are obtained from the first split (). 
+   The models pre-trained on KonIQ-10k with 5%,10%,25%,80% samples are released. Each released model are obtained from the first split (the dataset are randomly splitted 10 times with random seed()). 
