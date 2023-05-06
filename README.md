@@ -4,7 +4,7 @@ This is the source code for [KG-IQA: Knowledge-Guided Blind Image Quality Assess
 For test:
 1. Data Prepareation
 
-   To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run once.
+   To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run 'data_preparation_example_for_koniq.py' once for each dataset.
    
 2. Load pre-trained weight for test
 
