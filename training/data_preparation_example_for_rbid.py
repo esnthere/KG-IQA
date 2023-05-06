@@ -41,6 +41,5 @@ for i in np.arange(0, num):
     # plt.show()
     imgs_all[i] = cv2.resize(im, (244, 244), interpolation=cv2.INTER_CUBIC).transpose(2, 0, 1)
 
-sio.savemat('rbid_244.mat', {'train_name': name[ind_train],'X': imgs_all[ind_train], 'Y': mos[ind_train],
-                               'test_name': name[ind_test],'Xtest': imgs_all[ind_test], 'Ytest': mos[ind_test], })
+sio.savemat('rbid_244.mat', {'X': imgs_all[ind_train], 'Y': mos[ind_train], 'Xtest': imgs_all[ind_test], 'Ytest': mos[ind_test] })
 
