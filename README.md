@@ -10,7 +10,7 @@ For test:
 
    The models pre-trained on KonIQ-10k with 5%,10%,25%,80% samples are released. The dataset are randomly splitted several times during training, and each released model is obtained from the first split ( numpy.random.seed(1)).
    
-   The pre-trained models can be downloaded from: [Pre-trained model](https://pan.baidu.com/s/1kKGTp1iS0QGhuYGSJQVhTg?pwd=o80k). 
+   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/1kKGTp1iS0QGhuYGSJQVhTg?pwd=o80k). 
    
 For train:
 
