@@ -26,7 +26,6 @@ If you like this work, please cite:
   
   year={Early Access,2022},
   
-  doi={10.1109/TMM.2022.3233244}
-  
+  doi={10.1109/TMM.2022.3233244}  
 }
 
