@@ -3,7 +3,7 @@ This is the source code for 'KG-IQA: Knowledge-Guided Blind Image Quality Assess
 
 1. Data Prepareation
 
-   To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run once.
+   To ensure high speed, save training images and lables, JND images, and NSS features into 'mat' files. The preparation process please refer to the published paper [KG-IQA](https://ieeexplore.ieee.org/document/10003665). The mat files can be downloaded from [Trainng files](https://pan.baidu.com/s/1EerM_rvNVo8Eevw74p3TNQ?pwd=z3oh). 
    
 2. Load pre-trained weight for test
 
