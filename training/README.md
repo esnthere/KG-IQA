@@ -11,7 +11,7 @@ This is the training example of KG-IQA on the RBID dataset, which is small enoug
    
 
 
-If you like this work, please cite:
+## If you like this work, please cite:
 
 {
   author={Song, Tianshu and Li, Leida and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Guo, Yandong and Shi, Guangming},
