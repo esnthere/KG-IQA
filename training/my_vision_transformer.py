@@ -1,24 +1,5 @@
 """ Vision Transformer (ViT) in PyTorch
-
-A PyTorch implement of Vision Transformers as described in
-'An Image Is Worth 16 x 16 Words: Transformers for Image Recognition at Scale' - https://arxiv.org/abs/2010.11929
-
-The official jax code is released and available at https://github.com/google-research/vision_transformer
-
-Status/TODO:
-* Models updated to be compatible with official impl. Args added to support backward compat for old PyTorch weights.
-* Weights ported from official jax impl for 384x384 base and small models, 16x16 and 32x32 patches.
-* Trained (supervised on ImageNet-1k) my custom 'small' patch model to 77.9, 'base' to 79.4 top-1 with this code.
-* Hopefully find time and GPUs for SSL or unsupervised pretraining on OpenImages w/ ImageNet fine-tune in future.
-
-Acknowledgments:
-* The paper authors for releasing code and weights, thanks!
-* I fixed my class token impl based on Phil Wang's https://github.com/lucidrains/vit-pytorch ... check it out
-for some einops/einsum fun
-* Simple transformer style inspired by Andrej Karpathy's https://github.com/karpathy/minGPT
-* Bert reference code checks against Huggingface Transformers and Tensorflow Bert
-
-Hacked together by / Copyright 2020 Ross Wightman
+This code is modified from TIMM at https://github.com/huggingface/pytorch-image-models/tree/main/timm.
 """
 import torch
 import torch.nn as nn
