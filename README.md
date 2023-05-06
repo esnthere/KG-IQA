@@ -8,9 +8,8 @@ For test:
    
 2. Load pre-trained weight for test
 
-   The models pre-trained on KonIQ-10k with 5%,10%,25%,80% samples are released. Each released model are obtained from the first split (the dataset are randomly splitted 10 times with numpy.random.seed(1)).
-   The pre-trained model can be downloaded from: [Pre-trained model](https://pan.baidu.com/s/1kKGTp1iS0QGhuYGSJQVhTg?pwd=o80k)
-
+   The models pre-trained on KonIQ-10k with 5%,10%,25%,80% samples are released. The pre-trained model can be downloaded from: [Pre-trained model](https://pan.baidu.com/s/1kKGTp1iS0QGhuYGSJQVhTg?pwd=o80k) Each released model are obtained from the first split (the dataset are randomly splitted 10 times with numpy.random.seed(1)).
+   
 For train:
 
   The training code is available in the 'training' folder.
