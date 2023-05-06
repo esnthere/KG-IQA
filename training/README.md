@@ -1,5 +1,5 @@
 # Training Code for KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples
-This is the source code for 'KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples'(doi:10.1109/TMM.2022.3233244).
+This is the training example of KG-IQA on the RBID dataset, which is small enough to re-train. The trainning process is the same for other datasets:
 
 1. Data Prepareation
 
