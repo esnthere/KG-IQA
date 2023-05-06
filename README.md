@@ -1,5 +1,5 @@
 # KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples
-This is the source code for 'KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples'(doi:10.1109/TMM.2022.3233244).
+This is the source code for [KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples](https://ieeexplore.ieee.org/document/10003665).
 
 For test:
 1. Data Prepareation
