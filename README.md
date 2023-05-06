@@ -11,7 +11,7 @@ This is the source code for [KG-IQA: Knowledge-Guided Blind Image Quality Assess
    
    
 ## For train:  
-The training code is available in the 'training' folder.
+The training code can be available at the 'training' folder.
 
 
 ## If you like this work, please cite:
