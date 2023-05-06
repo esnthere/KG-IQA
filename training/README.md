@@ -7,9 +7,7 @@ This is the training example of KG-IQA on the RBID dataset, which is small enoug
    
 ## 2. Training the model
 
-   Please 'run training_example_of_rbid_25percent.ipynb' to train the model. The model file '**my_vision_transformer.py**' is modified from open accessed source code of [DEIT](https://github.com/facebookresearch/deit). 
-   
-
+   Please 'run training_example_of_rbid_25percent.ipynb' to train the model. The model file '**my_vision_transformer.py**' is modified from open accessed source code of [DEIT](https://github.com/facebookresearch/deit) and [TIMM](https://github.com/huggingface/pytorch-image-models/tree/main/timm). 
 
 ## If you like this work, please cite:
 
