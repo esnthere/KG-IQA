@@ -11,7 +11,7 @@ CUDA: 10.2
    To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run '**data_preparation_example_for_koniq.py**' once for each dataset.
    
 ### 2. Load pre-trained weight for test  
-   The models pre-trained on KonIQ-10k with 5%, 10%, 25%, 80% samples are released. The dataset are randomly splitted several times during training, and each released model is obtained from the first split (numpy. random. seed(1)). The model is modified from vision_transformer in timm. 
+   The models pre-trained on KonIQ-10k with 5%, 10%, 25%, 80% samples are released. The dataset are randomly splitted several times during training, and each released model is obtained from the first split (numpy. random. seed(1)). The model file '**my_vision_transformer.py**' is modified from open accessed source code of [DEIT](https://github.com/facebookresearch/deit). 
    
    The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/1kKGTp1iS0QGhuYGSJQVhTg?pwd=o80k). Please download these files and put them in the same folder of code and then run '**test_example_koniq_*n*percent.py**' to make intra/cross dataset test for models trained on *n%* samples.
    
