@@ -11,15 +11,22 @@ For test:
    The models pre-trained on KonIQ-10k with 5%,10%,25%,80% samples are released. Each released model are obtained from the first split (the dataset are randomly splitted 10 times with numpy.random.seed(1)).
 
 For train:
+
   The training code is available in the 'training' folder.
 
 
 If you like this work, please cite:
+
 {
   author={Song, Tianshu and Li, Leida and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Guo, Yandong and Shi, Guangming},
+  
   journal={IEEE Transactions on Multimedia}, 
+  
   title={Knowledge-Guided Blind Image Quality Assessment With Few Training Samples}, 
+  
   year={Early Access,2022},
-  doi={10.1109/TMM.2022.3233244}}
+  
+  doi={10.1109/TMM.2022.3233244}
+  
 }
 
