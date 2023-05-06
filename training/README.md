@@ -7,6 +7,7 @@ This is the source code for 'KG-IQA: Knowledge-Guided Blind Image Quality Assess
    
 2. Training the model
 
+   Please 'run training_example_of_rbid_25percent.ipynb' to train the model.
    
 
 
