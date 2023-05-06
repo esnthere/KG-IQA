@@ -1,5 +1,5 @@
 # KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples
-This is the source code for [KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples](https://ieeexplore.ieee.org/document/10003665).![KG-IQA Framework](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+This is the source code for [KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples](https://ieeexplore.ieee.org/document/10003665).![KG-IQA Framework](https://github.com/esnthere/KG-IQA/blob/main/framework.png)
 
 ## Dependencies and Installation
 Pytorch: 1.8.1  
