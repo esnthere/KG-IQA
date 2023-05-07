@@ -8,7 +8,7 @@ CUDA: 10.2
 
 ## For test:
 ### 1. Data preparation  
-   To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run '**data_preparation_example_for_koniq.py**' once for each dataset.
+   To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run '**data_preparation_example.py**' once for each dataset.
    
 ### 2. Load pre-trained weight for test  
    The models pre-trained on KonIQ-10k with 5%, 10%, 25%, 80% samples are released. The dataset are randomly splitted several times during training, and each released model is obtained from the first split (numpy. random. seed(1)). The model file '**my_vision_transformer.py**' is modified from open accessed source code of [DEIT](https://github.com/facebookresearch/deit) and [TIMM](https://github.com/huggingface/pytorch-image-models/tree/main/timm). 
