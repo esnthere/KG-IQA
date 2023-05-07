@@ -1,7 +1,7 @@
 # Training Code for KG-IQA: Knowledge-Guided Blind Image Quality Assessment with Few Training Samples
 This is the training example of KG-IQA on the RBID dataset, which is small enough to re-train. The trainning process is the same for other datasets:
 
-## 1. Data Prepareation
+## 1. Data preparation
 
    To ensure high speed, save training images and lables, JND images, and NSS features into 'mat/npz' files. The preparation process please refer to the published paper [KG-IQA](https://ieeexplore.ieee.org/document/10003665).  Please run '**data_preparation_example_for_rbid.py**' to save the training images and labels, and other necessary files can be downloaded from [Trainng files](https://pan.baidu.com/s/1EerM_rvNVo8Eevw74p3TNQ?pwd=z3oh). Please download these files and put them into the same folder of the training code.
    
