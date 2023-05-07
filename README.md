@@ -7,7 +7,7 @@ timm: 0.3.2
 CUDA: 10.2  
 
 ## For test:
-### 1. Data Prepareation  
+### 1. Data preparation  
    To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run '**data_preparation_example_for_koniq.py**' once for each dataset.
    
 ### 2. Load pre-trained weight for test  
