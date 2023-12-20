@@ -26,7 +26,9 @@ The training code can be available at the 'training' folder.
      author={Song, Tianshu and Li, Leida and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Guo, Yandong and Shi, Guangming},  
      journal={IEEE Transactions on Multimedia},   
      title={Knowledge-Guided Blind Image Quality Assessment With Few Training Samples},   
-     year={Early Access,2022},  
+     year={2023},
+     volume={25},  
+     pages={8145-8156},
      doi={10.1109/TMM.2022.3233244}   
   }
   
